@@ -1,0 +1,21 @@
+{
+  "name": "lab_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rONin01010101010/10148758_comp3123_labtest1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rONin01010101010/10148758_comp3123_labtest1/issues"
+  },
+  "homepage": "https://github.com/rONin01010101010/10148758_comp3123_labtest1#readme"
+}
